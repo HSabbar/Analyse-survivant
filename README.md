@@ -1,7 +1,7 @@
 # Analyse-survivant
 
 ## Contexte : 
-Nous avons sélectionnés toutes les transmissions des survivant depuis (de) 2014.
+Nous avons sélectionnés toutes les transmissions de 6 dernière semaines de 2014.
 
 ## Objectif : 
 L’objectif de ce travaille est de classifier les transmissions est ce que c'est positive, négative ou neutre, ce travaille nous pensons qui peut-être utile pour :
@@ -10,7 +10,7 @@ L’objectif de ce travaille est de classifier les transmissions est ce que c'es
 * Trouver des indices pour augmenter l’espérance de vie également.
 
 ## Méthode : 
-Nous avons sélectionnés des résidents avec leur transmissions depuis (de) 2014.
+Nous avons sélectionnés des résidents avec leur transmissions de 6 dernière semaines 2014.
 Pour réaliser ce travaille nous avons utilisé les regex (les expression régulière) pour le pré-traitement de texte où nous avons nettoyé le texte, 
 * Suppression des caractère spéciaux **`[.;:!=\%?,\"()\[\]]`**
 * Suppression des balises html restant dans les transmissions.
