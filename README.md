@@ -21,7 +21,7 @@ Exemple clean texte :
 str =  "trés aggressive lors des soins<span style=""text-decoration: underline; background-color: green;"">grande difficulté a la changé frappe++ crie"
 new_str = trés aggressive lors des soins grande difficulté a la changé frappe crie 
 ```
-La classification de sentiment nous avons  utilisé principalement la classe NaiveBayesClassifier dans le package  textblob (https://textblob.readthedocs.io/en/dev/) nous avons construit un petite dataset manuellement où nous avons ajouté la parti classe (label); il s’agit de classifier les transmissions (négative,  positive, neutre)
+La classification de sentiment nous avons  utilisé principalement la classe **NaiveBayesClassifier** dans le package [**textblob**](https://textblob.readthedocs.io/en/dev/) nous avons construit un petite dataset manuellement où nous avons ajouté la parti classe (label); il s’agit de classifier les transmissions (négative,  positive, neutre)
 
 ![alt text](https://github.com/HSabbar/Analyse-survivant/blob/master/dataset-analyse-sentiment.png)
 
