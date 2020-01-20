@@ -13,7 +13,7 @@ L’objectif de ce travaille est de classifier les transmissions est ce que c'es
 Nous avons sélectionnés des résidents avec leur transmissions depuis (de) 2014.
 Pour réaliser ce travaille nous avons utilisé les regex (les expression régulière) pour le pré-traitement de texte où nous avons nettoyé le texte, 
 * Suppression des caractère spéciaux **`[.;:!=\%?,\"()\[\]]`**
-* Suppression des balises html restant dans les transmissions,
+* Suppression des balises html restant dans les transmissions.
 * Suppression des espaces de trop.
 
 Exemple clean texte : 
