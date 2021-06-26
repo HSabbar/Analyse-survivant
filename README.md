@@ -15,7 +15,7 @@ Pour réaliser ce travaille nous avons utilisé les regex (les expression régul
 * Suppression des caractère spéciaux **`[.;:!=\%?,\"()\[\]]`**
 * Suppression des balises html restant dans les transmissions.
 * Suppression des espaces de trop.
-
+ 
 Exemple clean texte : 
 ```
 str = "trés aggressive lors des soins<span style=""text-decoration: underline; background-color: green;"">grande difficulté a la changé frappe++ crie"
